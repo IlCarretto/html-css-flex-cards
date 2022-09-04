@@ -1,0 +1,58 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON */
+html{
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+/* HEADER */
+h1{
+    color: #e53170;
+    margin-bottom: 2rem;
+}
+
+.header{
+    text-align: center;
+    padding: 2rem;
+}
+
+/* MAIN */
+.card{
+    width: calc(100% / 3 - 10%);
+    background-color: #0f0e17;
+    color: white;
+}
+
+img{
+    width: 10%;
+}
+
+.row{
+    display: flex;
+    justify-content:
+}
+
+.content{
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.content span{
+    display: block;
+}
+
+a{
+    text-decoration: none;
+    color: #15a8e3;
+}
