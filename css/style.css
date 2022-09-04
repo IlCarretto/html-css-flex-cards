@@ -30,13 +30,13 @@ h1{
 
 /* MAIN */
 .card{
-    width: calc(100% / 3 - 10%);
+    width: 250px;
     background-color: #0f0e17;
     color: white;
 }
 
 img{
-    width: 10%;
+    width: 100px;
 }
 
 .row{
@@ -44,7 +44,6 @@ img{
 }
 
 .content{
-    width: 100%;
     padding: 0.5rem;
 }
 
